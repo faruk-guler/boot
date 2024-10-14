@@ -1,0 +1,1 @@
+linux rescue boot file
